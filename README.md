@@ -1,4 +1,4 @@
-# Student Grades Analysis
+# Students Grades Analysis
 
 A data analysis project built with Python, NumPy, and Matplotlib.
 
